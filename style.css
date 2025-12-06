@@ -76,6 +76,8 @@ video {
     justify-self: center;
     display: flex;
     gap: 20px;
+    padding: 8px 60px;
+
 }
 
 /* 2 Spalten bei mittleren Bildschirmen */
