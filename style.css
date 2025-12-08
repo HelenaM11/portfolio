@@ -186,6 +186,13 @@ video {
     grid-template-areas: "text text text . . .";
 }
 
+    .project-grid-images {
+    display: grid;
+    padding: 20px 60px 20px 60px;
+    gap: 60px;
+    grid-template-columns: 1fr;
+}
+
 /* 2 Spalten bei mittleren Bildschirmen */
 @media (max-width: 1024px) {
     .project-grid-text {
