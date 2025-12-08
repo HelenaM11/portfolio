@@ -63,7 +63,7 @@ video {
 }
 
 .navigation__logo {
-    width: 50px;
+    width: 63px;
     justify-self: end;
 }
 
@@ -76,7 +76,8 @@ video {
     justify-self: center;
     display: flex;
     gap: 20px;
-    padding: 8px 60px;
+    margin: 20px 0px 20px;
+    
 
 }
 
@@ -87,13 +88,23 @@ video {
         font-size: 20px;
     }
 
+
+.navigation__language {
+    justify-self: center;
+    display: flex;
+    gap: 20px;
+    margin: 20px 0px 20px;
+    
+
+}
+
     .navigation__img {
         width: 100px;
         justify-self: end;
     }
 
     .navigation__logo {
-        width: 105px;
+        width: 63px;
         justify-self: end;
     }
 }
@@ -105,13 +116,23 @@ video {
         font-size: 10px;
     }
 
+
+.navigation__language {
+    justify-self: center;
+    display: flex;
+    gap: 20px;
+    margin: 10px 0px 10px;
+    
+
+}
+
     .navigation__img {
         width: 60px;
         justify-self: end;
     }
 
     .navigation__logo {
-        width: 65px;
+        width: 32px;
         justify-self: end;
     }
 }
